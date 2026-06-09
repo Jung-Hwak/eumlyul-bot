@@ -1,5 +1,5 @@
 @echo off
 title Bot
-cd /d F:\workspace\eumlyul-bot
+cd /d "%~dp0"
 python bot.py
 pause
