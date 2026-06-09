@@ -1,0 +1,62 @@
+2026-06-04 17:45:11,310 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-04 17:45:11,311 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-04 17:45:11,351 [INFO] logging in using static token
+2026-06-04 17:47:49,524 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-04 17:47:49,524 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-04 17:47:49,529 [INFO] logging in using static token
+2026-06-04 17:51:15,788 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-04 17:51:15,789 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-04 17:51:15,794 [INFO] logging in using static token
+2026-06-04 17:52:31,427 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-04 17:52:31,427 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-04 17:52:31,441 [INFO] logging in using static token
+2026-06-04 17:53:44,962 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-04 17:53:44,962 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-04 17:53:44,975 [INFO] logging in using static token
+2026-06-04 17:54:46,336 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-04 17:54:46,336 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-04 17:54:46,343 [INFO] logging in using static token
+2026-06-04 17:54:48,545 [INFO] Shard ID None has connected to Gateway (Session ID: 6d061d6308c4233bee68f1521dcfb320).
+2026-06-04 17:54:50,546 [INFO] 봇 로그인 = 음률 봇#7013
+2026-06-04 17:54:51,086 [INFO] 슬래시 명령어 동기화 = 5개
+2026-06-05 23:37:42,138 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-05 23:37:42,159 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-05 23:37:42,217 [INFO] logging in using static token
+2026-06-05 23:37:43,812 [INFO] Shard ID None has connected to Gateway (Session ID: 5ce92f0d5b0ae187297940fdbc86bc75).
+2026-06-05 23:37:45,819 [INFO] 봇 로그인 = 음률 봇#7013
+2026-06-05 23:37:46,288 [INFO] 슬래시 명령어 동기화 = 5개
+2026-06-05 23:39:37,149 [INFO] 포럼 새 글 감지 = 테스트중입니다. | 작성자 = mangzzin
+2026-06-05 23:39:37,613 [INFO] 홍보방 알림 전송 완료 = 테스트중입니다.
+2026-06-06 17:44:48,588 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-06 17:44:48,618 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-06 17:44:48,722 [INFO] logging in using static token
+2026-06-06 17:44:50,333 [INFO] Shard ID None has connected to Gateway (Session ID: f9cc7541efcfc76f881099b9a5540409).
+2026-06-06 17:44:52,390 [INFO] 봇 로그인 = 음률 봇#7013
+2026-06-06 17:44:53,316 [INFO] 슬래시 명령어 동기화 = 5개
+2026-06-06 18:22:15,574 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-06 18:22:15,575 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-06 18:25:50,149 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-06 18:25:50,149 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-06 18:25:50,174 [INFO] logging in using static token
+2026-06-06 18:25:51,494 [INFO] Shard ID None has connected to Gateway (Session ID: c2ac0d36450c185796c8d5212a6020f1).
+2026-06-06 18:25:53,505 [INFO] 봇 로그인 = 음률 봇#7013
+2026-06-06 18:25:53,971 [INFO] 슬래시 명령어 동기화 = 5개
+2026-06-06 18:27:23,416 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-06 18:27:23,416 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-06 18:27:23,440 [INFO] logging in using static token
+2026-06-06 18:27:24,675 [INFO] Shard ID None has connected to Gateway (Session ID: 67080959452f16ca9660c1612bed82fa).
+2026-06-06 18:27:26,689 [INFO] 봇 로그인 = 음률 봇#7013
+2026-06-06 18:27:27,051 [INFO] 슬래시 명령어 동기화 = 5개
+2026-06-07 15:54:03,131 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-07 15:54:03,131 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-07 15:54:03,189 [INFO] logging in using static token
+2026-06-07 15:54:04,468 [INFO] Shard ID None has connected to Gateway (Session ID: f162a5c782c148e6ca6a453936cfe2d9).
+2026-06-07 15:54:06,476 [INFO] 봇 로그인 = 음률 봇#7013
+2026-06-07 15:54:06,786 [INFO] 슬래시 명령어 동기화 = 5개
+2026-06-07 15:54:06,787 [WARNING] guild를 찾을 수 없음 — guild_id 확인 필요
+2026-06-07 15:54:50,055 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-06-07 15:54:50,056 [WARNING] davey is not installed, voice will NOT be supported
+2026-06-07 15:54:50,079 [INFO] logging in using static token
+2026-06-07 15:54:51,405 [INFO] Shard ID None has connected to Gateway (Session ID: 7bfa4885a6a570a7542788c20785a803).
+2026-06-07 15:54:53,437 [INFO] 봇 로그인 = 음률 봇#7013
+2026-06-07 15:54:53,851 [INFO] 슬래시 명령어 동기화 = 5개
